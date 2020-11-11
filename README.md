@@ -1,4 +1,13 @@
 ## The Rewrite Challenge
+
+
+notes: (delete after)
+- fix cypress on package.json
+- create components and try to convert app.js into components.
+
+
+
+
 This is a simulation of a real-life task that you might (or might not) experience as a professional developer.
 
 You have applied for a job at a education firm. They want to assess your skills before they present you with an offer. For that reason, they want you to participate in a stress test, where you will be writing code under supervision..
